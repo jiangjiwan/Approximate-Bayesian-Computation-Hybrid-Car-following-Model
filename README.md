@@ -46,6 +46,7 @@ Calibration results from the previous step must be saved and loaded into:
 ## Contact
 For questions, please contact:  
 - **Jiwan Jiang** – jiangjiwan2@gmail.com  
-- **Soyoung Ahn** – sue.ahn@wisc.edu  
+- **Soyoung Ahn** – sue.ahn@wisc.edu
+- **Xin Wang** – xwang.xavier@gmail.com  
 
 
