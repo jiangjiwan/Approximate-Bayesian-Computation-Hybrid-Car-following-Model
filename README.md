@@ -20,7 +20,7 @@ To preprocess raw data, please download the original datasets and run the provid
 The upper and lower bounds of the uniform priors for:  
 - **HDV CF models**: OVM, IDM, GFM, FVDM  
 - **AV controllers**: LL, LLCS, HL, MPC  
-are stored in `prior/*.csv`.  
+are stored in `priori/*_uniform.csv`.  
 
 **Execution steps:**  
 1. Ensure the following files are downloaded into `/src`:  
